@@ -19,7 +19,7 @@ Admin yetkisine sahip olmadığı için ihadata url sine erişemiyor.
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20210738.png" alt="alt text" width="500" height="500">
 Admin yetkisine sahip ve giriş yapan admin veritabanına veriler ekliyor bazı sutünlar ise otomatik kendiliğinden default olarak ekleniyor(Currency,IsForRent ve IsDelete)
 IsForRent Stock sutünü 0 dan büyükse otomatik olarak True olurken 0 ise False oluyor. IsDelete sutunu ise verilerin silindikten sonra da veritabanında de kalıp veri kaybolmasını engelleniyor.Currency de default olarak '₺' olarak geliyor.
-<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20210914.png" alt="alt text" width="500" height="500">
+<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20210914.png" alt="alt text" width="500" height="650">
 Veriler eklendikten sonra GET methodu ile gösterilimi.
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20210940.png" alt="alt text" width="500" height="500">
 Verilerimizde silme işlemi yapmak için DELETE methodunu kullanıyoruz.Silme işlemi ile IsDelete sutunu otomatik olarak True oluyor
