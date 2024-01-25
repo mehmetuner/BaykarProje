@@ -33,7 +33,8 @@ Doğru IhaId girildiğinde ise veritabanına ekleme işlemi başarıyla gerçekl
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20211504.png" alt="alt text" width="500" height="500">
 UserWindowIha tablosunda bulunan tüm verileri GET methodu ile gösterilimi bu şekildedir ve PurpchaseDate sutunu,TotalFee sutunu ve Currency sutunu otomatik olarak eklenmektedir. PurpchaseDate şuanki yılı otomatik olarak alıyor. TotalFee ise kullanıcının istediği İnsansız Hava Aracının yıllık maliyeti * Kaç yıl kiralayacağı * Alacağı adet ile çarpılıp otomatik olarak TotalFee sutununa eklenmektedir. Currency de default olarak '₺' olarak geliyor.
 
-PostgreSQL görüntüleri ise şu şekildedir:
+PostgreSQL görüntüleri ise şu şekildedir
+
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213440.png" alt="alt text" width="500" height="500">
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213509.png" alt="alt text" width="500" height="500">
 <img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213525.png" alt="alt text" width="500" height="500">
