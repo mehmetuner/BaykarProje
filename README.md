@@ -35,7 +35,7 @@ UserWindowIha tablosunda bulunan tüm verileri GET methodu ile gösterilimi bu �
 
 PostgreSQL görüntüleri ise şu şekildedir
 
-<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213440.png" alt="alt text" width="500" height="650">
-<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213509.png" alt="alt text" width="500" height="650">
-<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213525.png" alt="alt text" width="500" height="650">
-<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213556.png" alt="alt text" width="500" height="650">
+<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213440.png" alt="alt text" width="500" height="600">
+<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213509.png" alt="alt text" width="500" height="600">
+<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213525.png" alt="alt text" width="500" height="600">
+<img src="https://github.com/mehmetuner/BaykarProje/blob/main/fotograflar/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-01-25%20213556.png" alt="alt text" width="500" height="600">
