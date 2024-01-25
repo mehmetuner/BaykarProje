@@ -36,6 +36,7 @@ UserWindowIha tablosunda bulunan tüm verileri GET methodu ile gösterilir. Purp
 PurpchaseDate şu anki yılı otomatik olarak alır.
 TotalFee, kullanıcının istediği İnsansız Hava Aracının yıllık maliyeti, kiralama süresi ve alınacak adet ile çarpılarak otomatik olarak TotalFee sütununa eklenir.
 Currency sütunu default olarak '₺' olarak atanır.
+Kullanıcı satın alma işlemi yaptıktan sonra aldığı adet stock sutünundan düşürülür.
 
 PostgreSQL görüntüleri ise şu şekildedir
 
